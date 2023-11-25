@@ -1,1 +1,1 @@
-1.0.0 https://github.com/vermeilclient/League-of-Legends-Free-Script-Vermeil-Client/raw/main/Vermeil.rar 69ce092c50be306a66402dba6cf64ed502a42883
+1.0.0 https://github.com/vermeilclient/League-of-Legends-Free-Script-Vermeil-Client/raw/main/Vermeil.rar e1c29c345b3122815ce0be47515bc9dcdf565650
